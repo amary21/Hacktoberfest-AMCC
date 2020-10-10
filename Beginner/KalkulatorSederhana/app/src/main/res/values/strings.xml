@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kalkulator Sederhana</string>
+    <string name="title">Kalkulator Sederhana</string>
+    <string name="plus">Penjumlahan</string>
+    <string name="minus">Pengurangan</string>
+    <string name="multiplied">Perkalian</string>
+    <string name="divided">Pembagian</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_input">Input Nilai Pertama</string>
+    <string name="second_input">Input Nilai Kedua</string>
+    <string name="result">Hasil</string>
+</resources>
